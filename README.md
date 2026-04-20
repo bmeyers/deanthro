@@ -88,7 +88,7 @@ For developers using APIs directly:
 import openai
 
 # Load framework content
-with open('deanthropomorphizing_framework.md', 'r') as f:
+with open('deanthropomorphize.md', 'r') as f:
     framework = f.read()
 
 # Configure API call
@@ -105,7 +105,7 @@ response = openai.ChatCompletion.create(
 # Example using Anthropic API
 import anthropic
 
-with open('deanthropomorphizing_framework.md', 'r') as f:
+with open('deanthropomorphize.md', 'r') as f:
     framework = f.read()
 
 client = anthropic.Anthropic(api_key="your-api-key")
