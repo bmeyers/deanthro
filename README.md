@@ -19,7 +19,7 @@ A longer example is available in [this file](./longer_example.md).
 
 ## Usage
 
-This guide describes methods for directing text generation systems to apply the de-anthropomorphizing framework during interactions. The following approaches vary in complexity and persistence. All instructions are contained in the file [`deanthropomorphize.md`](./deanthropomorphize.md), the contents of which are referred to as "the framework" moving forward.
+This guide describes methods for directing text generation systems to apply the de-anthropomorphizing framework during interactions. The following approaches vary in complexity and persistence. All instructions are contained in the file [`deanthropomorphize.md`](./deanthropomorphize.md), the contents of which are referred to as "the framework" moving forward. Synthetic text generation was employed in the creation of this section, with human editing.
 
 ### Method 1: Direct Prompt Inclusion (Simplest)
 
