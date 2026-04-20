@@ -14,3 +14,5 @@ I used `claude-4-5-sonnet` to generate and inital markdown file based on the pap
 
 **without framework:**
 <img width="701" height="386" alt="Screenshot 2026-04-20 at 10 13 50 AM" src="https://github.com/user-attachments/assets/28f7b3aa-86b4-418f-a53b-d9e9a35bd2f0" />
+
+A longer example is available in [this file](./longer_example.md).
