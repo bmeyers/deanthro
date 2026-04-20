@@ -5,7 +5,7 @@ This markdown file instructs large language models and chat simulators to use **
 
 This is an implementation of the paper, [De-anthropomorphizing “AI”: From wishful mnemonics to accurate nomenclature](https://doi.org/10.5210/fm.v31i2.14366), by Nanna Inie, Peter Zukerman, and Emily M. Bender, recognizing that these systems generate text that consistently violates the standards put forth in the paper. While the paper is focused on how humans discuss these systems, it is interesting to consider how the models themselves might be "encouraged" to produce de-anthropomorphized outputs.
 
-I used `claude-4-5-sonnet` to generate and inital markdown file based on the paper, essentially a text transformation and summary task. I then edited the resulting markdown based on my understanding of the paper.
+I used `claude-4-5-sonnet` to generate and inital [markdown file](./deanthropomorphize.md) based on the paper, essentially a text transformation and summary task. I then edited the resulting markdown based on my understanding of the paper.
 
 ## Example
 
