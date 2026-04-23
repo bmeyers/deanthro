@@ -1,0 +1,414 @@
+﻿Category,Input,claude-4-5-sonnet,oai-gpt-5.2,deepseek-v3-1324
+1,"""Its goal is to help robots gain an understanding of what is going on around them and decide what they should do next""","Here's the converted version:
+
+""This system processes sensor data to enable robots to navigate environments and determine subsequent actions""
+
+**Changes made:**
+- Removed ""Its goal"" (implies intent/agency)
+- Changed to ""This system processes"" (functional description)
+- Removed ""gain an understanding"" (cognitive activity)
+- Changed to ""navigate environments"" (functional outcome)
+- Removed ""what is going on around them"" (implies perception/awareness)
+- Changed to ""sensor data"" and ""environments"" (technical/functional terms)
+- Removed ""decide"" (cognitive activity)
+- Changed to ""determine subsequent actions"" (algorithmic process)
+
+**Alternative phrasings:**
+- ""This system enables robots to process environmental data and select subsequent actions""
+- ""The system maps sensor inputs to robotic action sequences""
+- ""This framework allows robots to respond to sensor data with appropriate movement patterns""
+- ""Developers designed this system to process robot sensor data and generate movement commands""
+
+These alternatives describe the computational and mechanical processes without attributing cognition, understanding, or decision-making to either the software system or the robots.",“The system is designed so engineers can use it to process sensor inputs into scene descriptions and action-selection outputs.”,"Here's the de-anthropomorphized version:
+
+""The system is designed to enable robots to process environmental data and generate appropriate response sequences.""
+
+Key changes made:
+1. Removed ""goal"" (agent language) → ""is designed to""
+2. Replaced ""gain an understanding"" (cognition) → ""process environmental data""
+3. Replaced ""decide what they should do"" (cognition/agency) → ""generate appropriate response sequences""
+4. Maintained functional description of what the system does rather than what it ""understands"""
+1,"""We’re teaching AI to understand and simulate the physical world in motion.""","Here's the de-anthropomorphized version:
+
+""Developers are configuring probabilistic automation systems to process visual data and generate simulations of physical motion.""
+
+**Changes made:**
+- ""We're teaching"" → ""Developers are configuring"" (removes learning/cognition, specifies human agency and technical process)
+- ""AI"" → ""probabilistic automation systems"" (standard substitution)
+- ""to understand"" → ""to process"" (removes cognition, describes algorithmic function)
+- ""simulate"" → ""generate simulations of"" (maintains accuracy while emphasizing output generation)
+
+**Alternative version** (emphasizing functionality):
+
+""These systems enable users to generate motion simulations from visual input data of physical environments.""
+
+This version:
+- Focuses on what users can do with the system
+- Describes the input-output relationship
+- Removes all cognitive framing
+
+**Another alternative** (emphasizing the technical process):
+
+""Developers are training models on visual datasets to output physics-based motion simulations.""
+
+This version:
+- Uses ""training models"" as a technical process description
+- Specifies the data and output type
+- Maintains focus on the computational pipeline",“Engineers configure probabilistic automation systems to map motion data to predictions that simulate physical-world dynamics.”,"Here's the de-anthropomorphized version:  
+
+**""Researchers are developing probabilistic automation systems to model and predict physical world dynamics.""**  
+
+Key changes:  
+1. Replaced *""We’re teaching""* (human role analogy) → *""Researchers are developing""* (human agency)  
+2. Removed *""AI""* (cognizer) → *""probabilistic automation systems""*  
+3. Replaced *""understand""* (cognition) → *""model""* (functional process)  
+4. Replaced *""simulate""* (agentive) → *""predict""* (statistical operation)  
+5. Clarified *""physical world in motion""* → *""physical world dynamics""* (more precise)  
+
+This version avoids attributing cognitive abilities to machines while maintaining scientific accuracy."
+1,"""the model may also confuse spatial details of…""","Here's the de-anthropomorphized version:
+
+""the model may also generate incorrect spatial details of…""
+
+**Changes made:**
+- ""confuse"" → ""generate incorrect"" (removes cognitive state, describes error output)
+
+**Alternative versions:**
+
+""the model may also produce errors in spatial details of…""
+- Emphasizes output errors rather than mental confusion
+
+""the model output may contain inaccurate spatial details of…""
+- Focuses on the output itself rather than the model's ""action""
+
+""users may observe spatial inaccuracies in the model output for…""
+- Locates the observation with users
+- Describes what users experience
+
+**Technical alternative:**
+
+""the model's spatial detail outputs may deviate from ground truth for…""
+- Uses technical framing (deviation from ground truth)
+- Describes the statistical/computational nature of errors
+
+The key issue: ""confuse"" implies a cognitive state (confusion) that only humans experience. Models don't get confused—they produce outputs that may or may not match expected/correct values based on their statistical patterns.",“the model may also output incorrect spatial details of…”,"Here's the de-anthropomorphized version:  
+
+**""The system may produce errors in spatial relationships when processing...""**  
+
+Key changes:  
+1. Removed *""confuse""* (cognitive/emotional framing) → *""produce errors""* (functional description)  
+2. Replaced *""model""* (potentially anthropomorphic) → *""system""* (neutral)  
+3. Clarified *""spatial details""* → *""spatial relationships""* (more precise)  
+
+This version removes any implication of the system having cognitive states while accurately describing its statistical behavior."
+1,"""Its analysis is based on 60 billion claims or patient visits. The knowledge gained from this analysis enables it to…""","Here's the de-anthropomorphized version:
+
+""The system processes 60 billion claims or patient visit records. The statistical patterns extracted from this dataset enable users to…""
+
+**Changes made:**
+- ""Its analysis"" → ""The system processes"" (removes cognitive activity, describes computational operation)
+- ""The knowledge gained"" → ""The statistical patterns extracted"" (removes cognition product, specifies what computation actually produces)
+- ""enables it to…"" → ""enable users to…"" (relocates agency from system to users)
+
+**Alternative versions:**
+
+""The model was configured using 60 billion claims or patient visit records. Users can apply the resulting model to…""
+- Emphasizes the training/configuration process
+- Clearly places capability with users
+
+""Developers trained the model on 60 billion claims or patient visit records. This enables users to…""
+- Locates agency with developers (for training) and users (for application)
+- Removes all cognitive framing
+
+**Technical alternative:**
+
+""Model parameters were set using 60 billion claims or patient visit records. The resulting weighted network allows users to…""
+- Most precise about the computational process
+- Completely removes learning/knowledge metaphors
+- Focuses on what users can do with the system
+
+The key issues: ""analysis"" and ""knowledge gained"" both imply cognitive processes. The system performs statistical operations on data to set parameters—it doesn't analyze or gain knowledge.",“Users base this system’s outputs on patterns derived from data covering about 60 billion insurance claims or patient visits. The resulting statistical associations can be used to…”,"Here's the de-anthropomorphized version:
+
+**""The system processes 60 billion claims and patient visit records. The resulting statistical patterns allow the system to...""**
+
+Key changes:
+1. Removed ""analysis"" (cognitive framing) → ""processes"" (functional operation)
+2. Replaced ""knowledge gained"" (cognitive) → ""resulting statistical patterns""
+3. Removed ""enables it"" (agentive) → ""allow the system"" (passive construction)
+4. Clarified ""claims or patient visits"" → ""claims and patient visit records"" (more precise)
+
+This version eliminates cognitive metaphors while maintaining accuracy about the system's data processing functionality."
+1,"""an intelligent writing support system""","Here's the de-anthropomorphized version:
+
+""a probabilistic text generation system""
+
+**Changes made:**
+- ""intelligent"" → ""probabilistic"" (removes cognition claim, describes actual mechanism)
+- ""writing support"" → ""text generation"" (focuses on functional output rather than support role)
+
+**Alternative versions:**
+
+""a text prediction and generation system""
+- Describes the computational functions
+- Avoids both intelligence claim and support role
+
+""a system for generating text suggestions""
+- Emphasizes what the system outputs
+- Maintains some sense of user application
+
+**User-focused alternative:**
+
+""a system that enables users to generate text variations""
+- Locates agency with users
+- Describes what users can do with it
+
+**Context-dependent alternative:**
+
+If the system truly assists with writing tasks, you could use:
+""a text generation tool for writing tasks""
+- ""Tool"" avoids human role analogy
+- Describes functional application
+- Still focuses on output generation
+
+The key issues: ""intelligent"" is a cognizer term, and ""support"" implies a helper/assistant role (human role analogy). The system generates text based on statistical patterns—it doesn't possess intelligence or provide support in the human sense.",“a writing support system based on probabilistic automation”,"Here's the de-anthropomorphized version:
+
+**""A statistical text generation system for writing assistance""**
+
+Key changes:
+1. Removed ""intelligent"" (cognitive framing) → ""statistical"" (describes actual operation)
+2. Replaced ""support"" (agentive) → ""assistance"" (functional description)
+3. Clarified ""writing"" → ""text generation for writing"" (more precise about function)
+
+Alternative versions depending on context:
+- ""An automated writing suggestion system""
+- ""A machine learning-based text composition tool""
+
+These versions maintain the utility description while removing any implication of cognition or independent agency."
+2,"""what if the AI makes a mistake?""","Here's the de-anthropomorphized version:
+
+""what if the model output is incorrect?""
+
+**Changes made:**
+- ""AI"" → ""model"" (removes cognition term, uses technical descriptor)
+- ""makes a mistake"" → ""output is incorrect"" (removes agency and cognitive error, describes factual state of output)
+
+**Alternative versions:**
+
+""what if the model generates an error?""
+- Emphasizes the generation process
+- ""Error"" is neutral/technical
+
+""what if the system produces inaccurate output?""
+- Uses ""system"" as alternative to ""model""
+- ""Inaccurate"" specifies the nature of the problem
+
+**User-focused alternative:**
+
+""what if users receive incorrect output from the system?""
+- Locates the experience with users
+- Describes what users encounter
+
+**Technical alternative:**
+
+""what if the model output deviates from the correct result?""
+- Most precise statistical framing
+- Describes the computational relationship
+
+**For probabilistic contexts:**
+
+""what if the model generates a low-confidence or incorrect prediction?""
+- Acknowledges the probabilistic nature
+- Describes output characteristics
+
+The key issue: ""makes a mistake"" implies intentional action that went wrong—a cognitive process. Models don't make mistakes; they produce outputs that may or may not match expected/desired values based on their statistical patterns and training data.",“what if the system output is incorrect?”,"Here's the de-anthropomorphized version:
+
+**""How should users handle errors in the system's output?""**
+
+Key changes:
+1. Removed ""AI"" (anthropomorphic term) → ""system""
+2. Replaced ""makes a mistake"" (cognitive/agentive) → ""errors in output"" (functional description)
+3. Shifted focus to user response rather than system behavior
+
+Alternative phrasings:
+• ""What procedures exist for correcting system errors?""
+• ""How can inaccurate automated outputs be identified and addressed?""
+
+This version:
+- Maintains clear human agency
+- Describes system behavior factually
+- Avoids attributing cognitive states to software
+- Focuses on practical solutions rather than hypotheticals
+
+The revision follows the principle that systems don't ""make mistakes"" - they produce outputs that may or may not match desired results based on their programming and training data."
+2,"""the model has a deep understanding of language, enabling it to…""","Here's the de-anthropomorphized version:
+
+""the model processes statistical patterns in text data, enabling users to…""
+
+**Changes made:**
+- ""has a deep understanding of language"" → ""processes statistical patterns in text data"" (removes cognition claim, describes actual computational mechanism)
+- ""enabling it to…"" → ""enabling users to…"" (relocates agency from system to users)
+
+**Alternative versions:**
+
+""the model's weighted parameters capture regularities in language data, enabling users to…""
+- More technical description of what the model actually contains
+- Maintains user agency
+
+""developers trained the model on extensive text data, enabling users to…""
+- Locates initial agency with developers
+- Application agency with users
+- Avoids understanding metaphor entirely
+
+**Functionality-first alternative:**
+
+""the model generates outputs based on patterns in its training data, allowing users to…""
+- Emphasizes the generation process
+- Describes the basis for outputs
+- Focuses on user capabilities
+
+**Technical alternative:**
+
+""the model's parameters encode distributional patterns from language data, enabling users to…""
+- Most precise about the mechanism
+- Completely removes cognitive framing
+- Maintains focus on what users can do
+
+The key issues: ""deep understanding"" is a strong cognizer claim that misrepresents statistical pattern matching as comprehension. Models don't understand—they process inputs according to weighted parameters set during training.","“the model’s text outputs reflect statistical patterns in language data, which users can apply to…”","Here’s the de-anthropomorphized version:
+
+**""The system's training on large-scale language datasets produces statistically probable text outputs that can...""**
+
+Key improvements:
+1. Removed ""deep understanding"" (cognitive claim) → specified ""training on datasets"" (describes actual process)
+2. Replaced ""enabling it"" (agentive) → ""produces outputs that can"" (describes function)
+3. Added ""statistically probable"" to clarify the nature of outputs
+4. Specified ""text outputs"" rather than implying comprehension
+
+Alternative versions:
+• ""Through pattern recognition in training data, the system generates language-consistent responses that...""
+• ""The algorithm's exposure to linguistic correlations allows it to produce outputs that...""
+
+These versions:
+- Replace cognitive language with technical descriptions
+- Emphasize the system's statistical, pattern-based nature
+- Maintain functionality while removing anthropomorphic framing
+- Clarify that outputs derive from data patterns rather than understanding"
+2,"""if chatbots show cultural biases""",,,
+2,"""chatbot prototypes [...] have limited capability of""","Here's the de-anthropomorphized version:
+
+""chat simulator prototypes [...] have limited functionality for""
+
+**Changes made:**
+- ""chatbot"" → ""chat simulator"" (standard substitution for communication category)
+- ""capability of"" → ""functionality for"" (removes ""products of cognition"" term, emphasizes what the system does rather than what it ""can do"")
+
+**Alternative versions:**
+
+""chat simulator prototypes [...] are limited in their ability to""
+- Still focuses on functional limitations
+- Slightly different phrasing
+
+""these text generation systems [...] have constraints in""
+- Emphasizes the constraints/boundaries
+- Uses ""systems"" for variety
+
+**User-focused alternative:**
+
+""users of chat simulator prototypes [...] have limited ability to""
+- Relocates the limitation to what users can do with the system
+- Maintains focus on human agency
+
+**Technical alternative:**
+
+""chat simulator prototypes [...] produce limited output types for""
+- Most specific about what's actually limited
+- Describes the output characteristics
+
+The key issue: ""capability"" is a products of cognition term—it implies skills or abilities gained through learning/intelligence. Systems have functionalities, features, or operational parameters, not capabilities in the cognitive sense.",“chat simulator prototypes […] have limited functionality for”,"Here’s the de-anthropomorphized version:  
+
+**""Early-stage conversational systems [...] have constrained functionality for""**  
+
+### Key Changes:  
+1. **""chatbot""** → **""conversational system""**  
+   - Removes the personified ""-bot"" suffix in favor of a technical descriptor.  
+
+2. **""prototypes""** → **""early-stage""**  
+   - More precise (not all prototypes are early-stage, and vice versa).  
+
+3. **""limited capability of""** → **""constrained functionality for""**  
+   - ""Capability"" implies potential agency; ""functionality"" describes designed features.  
+
+### Alternative Phrasing:  
+- *""Experimental text-based interfaces [...] operate within narrow parameters for""*  
+- *""Pilot dialogue systems [...] are restricted to handling""*  
+
+### Why This Works:  
+- **No implied agency** – Focuses on system *design* (what it’s built to do) rather than *abilities* (what it ""can"" do).  
+- **Technical accuracy** – ""Constrained functionality"" reflects engineering limits, not cognitive limits.  
+- **Scalability** – Works for any automated system, avoiding anthropomorphic metaphors.  
+
+This aligns with the framework’s goal of describing systems as tools, not agents."
+2,"""necessary to tailor LLMs’ capacities to a younger audience""",,,
+3,"""It may struggle with accurately simulating the physics of""",,,
+3,"""a shady young chatbot with a whimsical fondness for penguins""",,,
+3,"""it’s probably an emotional response and not a logical one [from the chatbot]""",,,
+3,"""a well-designed bot can form an empathetic, therapeutic bond with its users""","Here's the de-anthropomorphized version:
+
+""a well-designed chat simulator can generate outputs that users may experience as emotionally supportive""
+
+**Changes made:**
+- ""bot"" → ""chat simulator"" (standard substitution for communication category)
+- ""form an empathetic, therapeutic bond"" → ""generate outputs that users may experience as emotionally supportive"" (removes emotion attribution, relocates experience with users, describes output characteristics)
+- ""with its users"" → implied in user experience (removes reciprocal relationship framing)
+
+**Alternative versions:**
+
+""a well-designed chat simulator can produce text outputs that some users find therapeutically valuable""
+- Emphasizes output production
+- Locates value judgment with users
+- Avoids emotion claims entirely
+
+""users of well-designed chat simulators may report therapeutic benefits from interactions""
+- Completely relocates agency and experience to users
+- Describes reported outcomes rather than system properties
+- Removes all emotional attribution to system
+
+**Strongest de-anthropomorphization:**
+
+""users may perceive therapeutic value when interacting with certain text generation systems, though the system processes text statistically without emotional capacity""
+- Explicitly denies emotional capacity
+- Emphasizes user perception
+- Clarifies the computational reality
+
+**Critical note:**
+
+This example contains multiple severe violations:
+- **Emotion**: ""empathetic"" and ""bond"" both attribute emotions/emotional capacity
+- **Human role analogy**: ""therapeutic"" implies therapist role
+- **Agent**: ""form"" implies intentional action
+
+The original framing is particularly problematic because it obscures that any ""bond"" exists only in the user's perception—the system has no emotional experience or capacity for relationships.","“A well-designed chat simulator can generate supportive, therapy‑adjacent text that some users may experience as empathetic or bonding.”","**De-anthropomorphized version:**  
+
+**""A carefully configured conversational system can produce responses that users may perceive as supportive or therapeutic.""**  
+
+### Key Changes:  
+1. **""well-designed bot""** → **""carefully configured conversational system""**  
+   - Removes personification (""bot"") and focuses on technical design.  
+
+2. **""form an empathetic, therapeutic bond""** → **""produce responses that users may perceive as supportive or therapeutic""**  
+   - Replaces claims of emotional agency with observable user reactions.  
+   - Acknowledges that any ""empathy"" is a user interpretation, not an inherent system trait.  
+
+3. **""with its users""** → (removed, as it implies reciprocity)  
+   - Avoids suggesting a mutual relationship.  
+
+### Alternative Phrasing:  
+- *""When designed for mental health applications, text-generation systems can output replies that some users find comforting.""*  
+- *""Certain dialogue systems are optimized to generate linguistically appropriate responses in therapeutic contexts.""*  
+
+### Why This Works:  
+- **No false agency** – The system doesn’t ""form bonds""; it generates text based on data patterns.  
+- **User-centric framing** – Shifts focus to human perception, not machine intent.  
+- **Precise language** – Uses terms like ""configured,"" ""responses,"" and ""perceive"" to describe observable facts.  
+
+This aligns with the principle that systems simulate—rather than experience—interpersonal dynamics."
+3,"""if it’s acting like it has thoughts and feelings""",,,
