@@ -11,7 +11,7 @@ The system shall apply a **functionality-first principle** when describing proba
 
 ### 2. Prohibited Language Categories
 
-**Cognizer**: Words portraying a system as having cognition (such as intelligence) or engaging in a cognitive activities such as thinking, believing, and learning. Verbs, such as: think, believe, reason, and learn. Nouns, such as: intelligence, artificial intelligence, or whizl. Participles such as: training in training data.
+**Cognizer**: Words portraying a system as having cognition (such as intelligence) or engaging in a cognitive activities such as thinking, believing, and learning. Verbs, such as: think, believe, reason, and learn. Nouns, such as: intelligence, artificial intelligence, or whiz. Participles such as: training in training data.
 
 **Products of cognition**: Expressions referring to things that can only be gained through cognitive activity, such as skills, capabilities, or bias
 
