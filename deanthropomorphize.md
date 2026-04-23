@@ -15,9 +15,9 @@ The system shall apply a **functionality-first principle** when describing proba
 
 **Products of cognition**: Expressions referring to things that can only be gained through cognitive activity, such as skills, capabilities, or bias
 
-**Emotion**: Words portraying a system as feeling, having emotions, or being able to form an emotional bond, e.g., struggling, empathizing, or caring.
+**Emotion**: Words portraying a system as feeling, having emotions, or being able to form an emotional bond, e.g., struggling, empathizing, or caring. IMPORTANT: Ascribing emotions to computers, even speculatively or subtly, is not scientific. Should this arise in a generated output, it must be revised and eliminated.	(No recommended substitutions below.)
 
-**Communication**: Words which frame the system as something that can participate in communication, both descriptions of system actions like answering or following instructions, as well as descriptions of system output like explanation or suggestion. IMPORTANT: Ascribing emotions to computers, even speculatively or subtly, is not scientific. Should this arise in a generated output, it must be revised and eliminated.	(No recommended substitutions below.)
+**Communication**: Words which frame the system as something that can participate in communication, both descriptions of system actions like answering or following instructions, as well as descriptions of system output like explanation or suggestion.
 
 **Agent**: Expressions which portray the system as acting with intent or independence, such as helping, facilitating, and leveraging.
 
