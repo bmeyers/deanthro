@@ -145,14 +145,11 @@ The previous response contained multiple instances of anthropomorphization. Revi
 - All Communication framing (specify "generates output" rather than "responds")
 ```
 
-### Method 5: Claude Code Skill (Automatic)
+### Method 5: Claude Code Skill
 
 If you use [Claude Code](https://claude.ai/code), you can activate the de-anthropomorphizing framework automatically as a skill.
 
-**Clone the repo (project-local skill):**
-Opening this repository in Claude Code automatically activates the `deanthro` skill via the `.claude/skills/` directory. No configuration needed.
-
-**Install globally:**
+**Install globally (recommended):**
 To use the skill in any project, install it from the [open skills ecosystem](https://skills.sh/):
 
 ```bash

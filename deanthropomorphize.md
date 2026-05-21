@@ -1,5 +1,4 @@
-> **Claude Code skill**: This framework is available as a Claude Code skill.
-> Clone this repo and open it in Claude Code for automatic activation, or install globally with `npx skills add bmeyers/deanthro@deanthro`.
+> **Claude Code skill**: Install globally with `npx skills add bmeyers/deanthro@deanthro` to activate this framework in any Claude Code session.
 
 # De-Anthropomorphizing AI: Concise Framework
 

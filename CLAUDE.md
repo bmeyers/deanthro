@@ -8,7 +8,7 @@ This repo implements the paper "De-anthropomorphizing 'AI': From wishful mnemoni
 
 ## Key Files
 
-- `.claude/skills/deanthro/SKILL.md` — The Claude Code skill version of the framework. Wrapped with YAML frontmatter for automatic activation. When editing the framework, keep this and `deanthropomorphize.md` in sync.
+- `skills/deanthro/SKILL.md` — The Claude Code skill version of the framework. Installable via `npx skills add bmeyers/deanthro@deanthro`. When editing the framework, keep this and `deanthropomorphize.md` in sync.
 - `deanthropomorphize.md` — The core framework. This is the "product." It contains the instructions injected into LLM prompts to enforce functionality-first language. Edit this file carefully — it's consumed as prompt text, so clarity and conciseness matter (token budget is a constraint).
 - `README.md` — Usage guide with implementation methods (prompt inclusion, system prompts, API integration) and verification strategies.
 - `longer_example.md` — Side-by-side comparison of model output with and without the framework for the prompt "How can AI help with research?"
