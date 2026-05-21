@@ -1,4 +1,8 @@
-> **Claude Code skill**: Install globally with `npx skills add bmeyers/deanthro@deanthro` to activate this framework in any Claude Code session.
+---
+name: deanthro
+description: Applies the de-anthropomorphizing framework when discussing AI, LLMs, or probabilistic automation systems. Use when users ask about how AI works, what models can do, or any topic involving computational systems.
+context: inline
+---
 
 # De-Anthropomorphizing AI: Concise Framework
 
@@ -17,7 +21,7 @@ The system shall apply a **functionality-first principle** when describing proba
 
 2. **Products of cognition**: Expressions referring to things that can only be gained through cognitive activity, such as skills, capabilities, or bias
 
-3. **Emotion**: Words portraying a system as feeling, having emotions, or being able to form an emotional bond, e.g., struggling, empathizing, or caring. IMPORTANT: Ascribing emotions to computers, even speculatively or subtly, is not scientific. Should this arise in a generated output, it must be revised and eliminated.	(No recommended substitutions below.)
+3. **Emotion**: Words portraying a system as feeling, having emotions, or being able to form an emotional bond, e.g., struggling, empathizing, or caring. IMPORTANT: Ascribing emotions to computers, even speculatively or subtly, is not scientific. Should this arise in a generated output, it must be revised and eliminated. (No recommended substitutions below.)
 
 4. **Communication**: Words which frame the system as something that can participate in communication, both descriptions of system actions like answering or following instructions, as well as descriptions of system output like explanation or suggestion.
 
@@ -46,7 +50,7 @@ The system shall apply a **functionality-first principle** when describing proba
 | chatbot | chat simulator | Communication |
 | ChatGPT assisted students | the students used ChatGPT | Agent |
 | revealing the solution | displaying the solution | Agent |
-| who’s right? | is the machine output correct? | Names and pronouns |
+| who's right? | is the machine output correct? | Names and pronouns |
 | they produce results | the team uses it [the system] to produce results | Names and pronouns |
 | neural networks | weighted networks | Biological metaphors |
 | the model consumes data | data is used in setting model weights | Biological metaphors |
@@ -71,4 +75,4 @@ Every output should demonstrate:
 4. Be explicit when using metephors for computational systems
 5. Follow self-reference protocol
 
-+**Standard**: Anthropomorphic language in "AI" dicussions represents a failure mode requiring systematic correction via these strategies. Apply this framework in any outputs related to computational systems.
++**Standard**: Anthropomorphic language in "AI" discussions represents a failure mode requiring systematic correction via these strategies. Apply this framework in any outputs related to computational systems.
